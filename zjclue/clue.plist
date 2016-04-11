@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7xso1k.com2.z0.glb.clouddn.com/zhejiang/clue.ipa</string>
+					<string>https://clueupload.daliandong.cn/zhejiangclue/clue.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://7xso1k.com2.z0.glb.clouddn.com/zhejiang/icon.png</string>
+					<string>https://clueupload.daliandong.cn/zhejiangclue/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://7xso1k.com2.z0.glb.clouddn.com/zhejiang/icon512.jpg</string>
+					<string>https://clueupload.daliandong.cn/zhejiangclue/icon512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
